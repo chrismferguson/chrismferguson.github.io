@@ -6,6 +6,8 @@ this will be for my website, portfolio, my name is at the bottom, github link.
 
 // keep it simple!
 
+https://emojipedia.org/sun-behind-rain-cloud
+
 84c96075b43a072c13b208bc165be27e
 
 switch to fahrenheit from celsius
